@@ -18,6 +18,8 @@
 //  limitations under the License.
 //
 
+#import "UIKit/UIKit.h"
+
 /// @name Macros
 
 /// Detect system versions.
